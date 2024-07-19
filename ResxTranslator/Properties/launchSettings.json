@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResxTranslator": {
+      "commandName": "Project",
+      "commandLineArgs": "-i TestFiles -l pt"
+    }
+  }
+}
