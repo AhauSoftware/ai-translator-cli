@@ -2,6 +2,7 @@
 
 ## Setup / Build
 ```cd ResxTranslator```
+
 ```dotnet build```
 
 ## Run
